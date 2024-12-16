@@ -8,8 +8,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/BacataCode/SmartCardConnectApiRest/models"
-	"github.com/BacataCode/SmartCardConnectApiRest/repository"
+	"github.com/danielgz405/template-api-rest-go/models"
+	"github.com/danielgz405/template-api-rest-go/repository"
 
 	"github.com/golang-jwt/jwt"
 	"github.com/gorilla/mux"

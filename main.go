@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/BacataCode/SmartCardConnectApiRest/handlers"
-	"github.com/BacataCode/SmartCardConnectApiRest/server"
+	"github.com/danielgz405/template-api-rest-go/handlers"
+	"github.com/danielgz405/template-api-rest-go/server"
 	"github.com/gorilla/mux"
 	"github.com/joho/godotenv"
 )

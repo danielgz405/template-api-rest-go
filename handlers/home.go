@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/BacataCode/SmartCardConnectApiRest/pages"
-	"github.com/BacataCode/SmartCardConnectApiRest/server"
+	"github.com/danielgz405/template-api-rest-go/pages"
+	"github.com/danielgz405/template-api-rest-go/server"
 	"github.com/gorilla/mux"
 )
 

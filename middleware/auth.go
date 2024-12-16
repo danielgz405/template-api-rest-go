@@ -4,10 +4,10 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/BacataCode/SmartCardConnectApiRest/models"
-	"github.com/BacataCode/SmartCardConnectApiRest/repository"
-	"github.com/BacataCode/SmartCardConnectApiRest/responses"
-	"github.com/BacataCode/SmartCardConnectApiRest/server"
+	"github.com/danielgz405/template-api-rest-go/models"
+	"github.com/danielgz405/template-api-rest-go/repository"
+	"github.com/danielgz405/template-api-rest-go/responses"
+	"github.com/danielgz405/template-api-rest-go/server"
 
 	"github.com/golang-jwt/jwt"
 	"github.com/gorilla/mux"

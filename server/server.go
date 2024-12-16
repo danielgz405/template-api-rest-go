@@ -6,9 +6,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/BacataCode/SmartCardConnectApiRest/database"
-	"github.com/BacataCode/SmartCardConnectApiRest/repository"
-	"github.com/BacataCode/SmartCardConnectApiRest/websocket"
+	"github.com/danielgz405/template-api-rest-go/database"
+	"github.com/danielgz405/template-api-rest-go/repository"
+	"github.com/danielgz405/template-api-rest-go/websocket"
 
 	"github.com/gorilla/mux"
 	"github.com/rs/cors"

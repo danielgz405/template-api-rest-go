@@ -3,7 +3,7 @@ package repository
 import (
 	"context"
 
-	"github.com/BacataCode/SmartCardConnectApiRest/models"
+	"github.com/danielgz405/template-api-rest-go/models"
 )
 
 func InsertUser(ctx context.Context, user *models.InsertUser) (*models.Profile, error) {

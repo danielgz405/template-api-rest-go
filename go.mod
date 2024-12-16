@@ -1,4 +1,4 @@
-module github.com/BacataCode/SmartCardConnectApiRest
+module github.com/danielgz405/template-api-rest-go
 
 go 1.23.2
 

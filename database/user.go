@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/BacataCode/SmartCardConnectApiRest/models"
+	"github.com/danielgz405/template-api-rest-go/models"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"
